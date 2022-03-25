@@ -1,0 +1,5 @@
+C:\Users\facec.lab04\source\repos\ListaExercicios3\Exercicio.Nove\obj\Debug\net5.0\Exercicio.Nove.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\ListaExercicios3\Exercicio.Nove\obj\Debug\net5.0\Exercicio.Nove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\ListaExercicios3\Exercicio.Nove\obj\Debug\net5.0\Exercicio.Nove.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\ListaExercicios3\Exercicio.Nove\obj\Debug\net5.0\Exercicio.Nove.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\ListaExercicios3\Exercicio.Nove\obj\Debug\net5.0\Exercicio.Nove.csproj.CoreCompileInputs.cache
